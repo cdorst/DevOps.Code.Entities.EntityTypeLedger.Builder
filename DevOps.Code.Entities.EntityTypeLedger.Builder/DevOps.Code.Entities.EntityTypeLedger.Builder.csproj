@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <LangVersion>latest</LangVersion>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <Authors>cdorst</Authors>
+    <Copyright>Copyright © Christopher Dorst</Copyright>
+    <Description>Function returns an instance of EntityTypeTable</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageIconUrl>https://cdorst-dev.azureedge.net/nuget/package-icon-64.png</PackageIconUrl>
+    <PackageId>CDorst.DevOps.Code.Entities.EntityTypeLedger.Builder</PackageId>
+    <PackageLicenseUrl>https://github.com/cdorst/DevOps.Code.Entities.EntityTypeLedger.Builder/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/cdorst/DevOps.Code.Entities.EntityTypeLedger.Builder</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/cdorst/DevOps.Code.Entities.EntityTypeLedger.Builder</RepositoryUrl>
+    <Version>1.0.0</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CDorst.DevOps.Code.Entities.EntityTypeLedger" Version="1.0.0" />
+  </ItemGroup>
+
+</Project>
