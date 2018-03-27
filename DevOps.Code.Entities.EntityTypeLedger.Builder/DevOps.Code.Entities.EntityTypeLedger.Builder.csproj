@@ -15,11 +15,11 @@
     <PackageLicenseUrl>https://github.com/cdorst/DevOps.Code.Entities.EntityTypeLedger.Builder/blob/master/LICENSE</PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/cdorst/DevOps.Code.Entities.EntityTypeLedger.Builder</PackageProjectUrl>
     <RepositoryUrl>https://github.com/cdorst/DevOps.Code.Entities.EntityTypeLedger.Builder</RepositoryUrl>
-    <Version>1.0.1</Version>
+    <Version>1.0.2</Version>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="CDorst.DevOps.Code.Entities.EntityTypeLedger" Version="1.0.1" />
+    <PackageReference Include="CDorst.DevOps.Code.Entities.EntityTypeLedger" Version="1.0.2" />
   </ItemGroup>
 
 </Project>
