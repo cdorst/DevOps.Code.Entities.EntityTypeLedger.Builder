@@ -27,7 +27,7 @@ The project below uses this repository as a direct dependency.
 
 Name | Status
 ---- | ------
-[DevOps.Code.Entities.AddEntityTypeRecord](https://github.com/CDorst./DevOps.Code.Entities.AddEntityTypeRecord) | [![AppVeyor build status](https://img.shields.io/appveyor/ci/cdorst./devops-code-entities-addentitytyperecord.svg?label=AppVeyor&style=flat-square)](https://ci.appveyor.com/project/cdorst./devops-code-entities-addentitytyperecord) [![NuGet package status](https://img.shields.io/nuget/v/CDorst..DevOps.Code.Entities.AddEntityTypeRecord.svg?label=NuGet&style=flat-square)](https://www.nuget.org/packages/CDorst..DevOps.Code.Entities.AddEntityTypeRecord)
+[DevOps.Code.Entities.AddEntityTypeRecord](https://github.com/CDorst/DevOps.Code.Entities.AddEntityTypeRecord) | [![AppVeyor build status](https://img.shields.io/appveyor/ci/cdorst/devops-code-entities-addentitytyperecord.svg?label=AppVeyor&style=flat-square)](https://ci.appveyor.com/project/cdorst/devops-code-entities-addentitytyperecord) [![NuGet package status](https://img.shields.io/nuget/v/CDorst.DevOps.Code.Entities.AddEntityTypeRecord.svg?label=NuGet&style=flat-square)](https://www.nuget.org/packages/CDorst.DevOps.Code.Entities.AddEntityTypeRecord)
 
 ## NuGet
 
@@ -36,7 +36,7 @@ This project is published as a NuGet package at [https://www.nuget.org/packages/
 
 ## Version
 
-1.0.3
+1.0.4
 
 ## Metaproject
 
